@@ -15,7 +15,7 @@
     "Marketing and Comms"
   ],
   "email": "Z2Zlcm5hbmRlekBsYXRpbm9jb25uZWN0aW9uLm9yZw==",
-  "images": [],
+  "ximages": ["/img/uploads/FERNANDEZ HEADSHOT. RED GLASSES - Latino Connection.JPG"],
   "website": "https://latinoconnection.org",
   "facebook": "",
   "twitter": "",
