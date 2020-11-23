@@ -13,20 +13,6 @@
     {{- end -}}
   </title>
 
-  {{ if .Param "no-index" }}
-    <meta name="robots" content="noindex">
-  {{ else }}
-    <meta name="robots" content="index,follow">
-    <link href="{{ .Permalink }}" rel="canonical">
-  {{ end }}
-
-  {{ template "_internal/opengraph.html" . }}
-  {{ template "_internal/twitter_cards.html" . }}
-  {{ template "_internal/schema.html" . }}
-  {{ template "_internal/google_news.html" . }}
-
-  {{ template "_internal/google_analytics_async.html" . }}
-
   {{ $cssFonts := resources.Get "css/fonts.css" }}
   {{ $cssTW := resources.Get "css/main.css" }}
   {{ $css := slice $cssFonts $cssTW | resources.Concat "css/site.css" }}
@@ -34,12 +20,6 @@
   {{ if ne hugo.Environment "development" }}
     {{ $css = $css | minify | fingerprint | resources.PostProcess }}
   {{ end }}
-  <link
-    rel="stylesheet"
-    href="{{ $css.RelPermalink }}"
-    media="print"
-    onload="this.media='all'"
-  >
   <link rel="preload" as="font" href="/css/fonts/merriweather-v22/merriweather-v22-latin-regular.woff2" crossorigin>
   <link rel="preload" as="font" href="/css/fonts/merriweather-v22/merriweather-v22-latin-700.woff2" crossorigin>
   {{ block "extra-head" . }}{{ end }}
@@ -64,6 +44,24 @@
     rel="modulepreload"
     href='{{ $js.RelPermalink }}'
   />
+  <link
+    rel="stylesheet"
+    href="{{ $css.RelPermalink }}"
+  >
+
+  {{ if .Param "no-index" }}
+    <meta name="robots" content="noindex">
+  {{ else }}
+    <meta name="robots" content="index,follow">
+    <link href="{{ .Permalink }}" rel="canonical">
+  {{ end }}
+
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
+  {{ template "_internal/schema.html" . }}
+  {{ template "_internal/google_news.html" . }}
+
+  {{ template "_internal/google_analytics_async.html" . }}
 
   {{ $icon := resources.Get "/img/logos/circle-black-on-trans-920.png" }}
   {{ range $size := slice "32x32" "128x128" "152x152" "167x167" "180x180" "192x192" "196x196" }}
