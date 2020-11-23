@@ -118,17 +118,6 @@ html {
   }
 }
 
-@responsive {
-  .column-count-2 {
-    column-count: 2;
-  }
-  .column-count-3 {
-    column-count: 3;
-  }
-  .break-inside-avoid-column {
-    break-inside: avoid-column;
-  }
-}
 
 /*! purgecss start ignore */
 input[type="search"]::-webkit-search-cancel-button {
