@@ -27,7 +27,7 @@ SVGS formatted readably:
 <div hidden>
   {{ range $id, $rsc := $svgs }}
     {{ $svg := resources.Get $rsc }}
-    <svg id="{{ $id }}">{{ $svg.Content|safeHTML }}</svg>
+    <svg id="{{ $id }}"></svg>
   {{ end }}
 </div>
 
