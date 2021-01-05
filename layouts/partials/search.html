@@ -128,9 +128,9 @@
             </svg>
           </span>
           <span
-            x-show="p.location"
+            x-show="p.location.length"
             class="align-middle"
-            x-text="p.location"></span>
+            x-text="p.location.join(', ')"></span>
         </div>
       </a>
     </template>
