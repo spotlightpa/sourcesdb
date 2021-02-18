@@ -20,7 +20,7 @@
     "African American English"
   ],
   "location": [
-    "Orrtanna, PA",
+    "Orrtanna, PA and Gettysburg, PA ",
     "Gettysburg, PA"
   ],
   "role": "Professor of Linguistics and Africana Studies, Associate Provost",
