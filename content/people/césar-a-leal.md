@@ -11,7 +11,7 @@
     "Identity",
     "Immigration"
   ],
-  "phone": "3057992510",
+  "phone": "",
   "first": "César",
   "expertise": [
     "Arts",
