@@ -1,8 +1,8 @@
 {
   "honorific": "Dr.",
-  "facebook": "@AmeshAA",
+  "facebook": "AmeshAA",
   "pronoun": "he/him",
-  "bio": "Infectious disease physician; pandemic preparedness",
+  "bio": "Infectious disease physician; pandemic preparedness.",
   "layout": "person",
   "keywords": [
     "Infectious disease"
@@ -13,7 +13,7 @@
     "Health & Medicine",
     "Science"
   ],
-  "twitter": "@AmeshAA",
+  "twitter": "AmeshAA",
   "pronunciation": "Rhymes with Hamish; A - doll - ja (hard j)",
   "location": [
     "Pittsburgh, PA"
