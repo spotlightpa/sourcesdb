@@ -16,7 +16,7 @@
   "phone": "7249912636",
   "first": "Jessica",
   "expertise": [
-    "Capital",
+    "Capitol",
     "Communications",
     "Community Services",
     "Diversity & Inclusion",
