@@ -1,15 +1,12 @@
-{{ $ppl := .GetPage "people" }}
+{{ $ppl := .GetPage "expertise" }}
 [
   {{ range $i, $page := $ppl.Pages }}
     {{ if ne $i 0 }},{{ end }}
     {
       "id": {{ .Permalink|jsonify }},
       "url": {{ .Permalink|jsonify }},
-      "name": {{ .LinkTitle|jsonify }},
-      "honorific": {{ .Param "honorific"|jsonify }},
-      "twitter": {{ .Param "twitter"|jsonify }},
-      "expertise": {{ delimit .Params.expertise ", " ", and " | jsonify }},
-      "role": {{ .Param "role"|jsonify }}
+      "title": {{ .LinkTitle|jsonify }},
+      "count": {{ len .Pages | printf "%d" |jsonify }}
     }
   {{ end }}
 ]
