@@ -21,7 +21,7 @@
   ],
   "twitter": "SamChen220",
   "location": [
-    "Lehigh Valley, PA and Washington, DC"
+    "Lehigh Valley, PA", "Washington, DC"
   ],
   "role": "Political Strategist | TV Host | College Professor",
   "last": "Chen",

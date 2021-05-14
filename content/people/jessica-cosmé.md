@@ -26,7 +26,7 @@
   ],
   "pronunciation": "Jessica Kos-Me",
   "location": [
-    "Philadelphia"
+    "Philadelphia, PA"
   ],
   "role": "Director, Public Affairs",
   "last": "Cosmé",
