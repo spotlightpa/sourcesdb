@@ -176,9 +176,10 @@
           >
             <img
               title="Click to download"
-              class="shadow rounded hover:shadow-lg transition-shadow duration-500"
+              class="shadow rounded bg-g-4 hover:shadow-lg transition-shadow duration-500"
               alt="Headshot of {{ $.Title }}"
-              width="200"
+              width="{{ $imgSmall.Width }}"
+              height="{{ $imgSmall.Height }}"
               src="{{ $imgSmall.RelPermalink }}"
               srcset="
                 {{ $imgSmall.RelPermalink }} 1x,
