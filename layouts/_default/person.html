@@ -76,7 +76,7 @@
           <a
             class="text-blue hover:text-yellow transition-colors duration-500"
             href="tel:{{ . }}"
-            x-data="{ tel: spl.formatTel($el.href) }"
+            x-data="formatTel"
             x-text="tel"
           >{{ . }}</a>
         </p>

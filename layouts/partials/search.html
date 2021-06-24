@@ -1,7 +1,6 @@
 <div
   class="mx-auto max-w-screen-md font-sans"
-  x-data="spl.searchPeople()"
-  x-init="init()"
+  x-data="searchPeople"
 >
   <h2 class="ml-10 text-g-9">
     <label
@@ -35,9 +34,9 @@
     </span>
     <span
       x-cloak
-      x-show="isLoading"
-      class="absolute inline-flex items-center justify-center inset-y-0 right-0 text-g-5 pointer-events-none z-10 w-10 leading-none"
+      class="absolute items-center justify-center inset-y-0 right-0 text-g-5 pointer-events-none z-10 w-10 leading-none"
       aria-hidden="true"
+      :class="{ 'inline-flex': isLoading, 'hidden': !isLoading }"
     >
       <svg class="animate-spin h-4 w-auto fill-current ">
         <title>Is Loading</title>
@@ -46,10 +45,10 @@
     </span>
     <button
       x-cloak
-      x-show="!isLoading && query || people.length"
       @click="clear()"
       type="button"
       class="absolute flex items-center justify-center inset-y-0 right-0 text-g-5 hover:text-g-7 z-10 w-10 leading-none"
+      :class="{ 'flex': showClearButton, 'hidden': !showClearButton }"
     >
       <svg class="h-4 w-auto fill-current ">
         <title>Clear search</title>

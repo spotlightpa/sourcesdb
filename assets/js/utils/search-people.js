@@ -21,6 +21,7 @@ export default function searchPeople() {
     results: window.history.state?.searchResult || null,
     error: null,
     isLoading: false,
+    fetchID: 0,
 
     init() {
       const bouncedSearch = debouncer({ milliseconds: 500 }, () =>
@@ -28,14 +29,19 @@ export default function searchPeople() {
       );
       this.$watch("query", (query) => {
         this.isLoading = !!query;
-        this.storeHistory();
         bouncedSearch();
       });
     },
 
     search() {
+      this.fetchID++;
+      let currentFetch = this.fetchID;
+
       searchAPI(this.query)
         .then((results) => {
+          if (currentFetch !== this.fetchID) {
+            return;
+          }
           this.error = null;
           if (results) {
             this.results = results;
@@ -87,6 +93,10 @@ export default function searchPeople() {
     clear() {
       this.results = null;
       this.query = "";
+    },
+
+    get showClearButton() {
+      return !this.isLoading && (this.query || this.people.length);
     },
   };
 }

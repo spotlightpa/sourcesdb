@@ -1,11 +1,11 @@
-import "alpinejs";
+import Alpine from "alpinejs";
 
 import formatTel from "../utils/format-tel.js";
 import searchPeople from "../utils/search-people.js";
 
-window.spl = Object.assign({}, window.spl, {
-  formatTel,
-  searchPeople,
+document.addEventListener("alpine:initializing", () => {
+  Alpine.data("formatTel", formatTel);
+  Alpine.data("searchPeople", searchPeople);
 });
 
 // Redirect admin emails to admin
@@ -16,3 +16,5 @@ if (window.location.hash.match(routes)) {
     window.location.origin + "/admin/" + window.location.hash
   );
 }
+
+Alpine.start();
