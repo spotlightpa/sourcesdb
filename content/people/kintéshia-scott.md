@@ -30,7 +30,7 @@
   "images": [
     "/img/uploads/kscott-kinteshia-scott.jpg"
   ],
-  "website": "clsphila.org",
+  "website": " http://clsphila.org",
   "email": "a3Njb3R0QGNsc3BoaWxhLm9yZw==",
   "linktitle": "Kintéshia Scott"
 }
