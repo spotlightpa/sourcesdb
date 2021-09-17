@@ -26,7 +26,7 @@
   "images": [
     "/img/uploads/usama-bilal-headshot-2018-2-cropped-usama-bilal.png"
   ],
-  "website": "www.usamabilal.info",
+  "website": "https://www.usamabilal.info",
   "email": "dWI0NUBkcmV4ZWwuZWR1",
   "linktitle": "Usama Bilal"
 }
