@@ -1,17 +1,9 @@
 {
-  "title": "Kadida Natasha Kenner",
-  "linktitle": "Kadida Kenner",
-  "first": "Kadida",
-  "middle": "Natasha",
-  "last": "Kenner",
-  "pronunciation": "Ka-Dee-Duh",
   "honorific": "Ms.",
+  "facebook": "",
   "pronoun": "she/her",
-  "role": "Director of Campaigns - PA Budget and Policy Center",
-  "expertise": [
-    "Capitol",
-    "Politics"
-  ],
+  "bio": "A West Chester, PA native and Temple University grad, Kadida Kenner was most recently a writer, producer, and director for college sports television programming in Charlotte, NC. Energized by the 2016 elections, she decided to take a hiatus from TV production, and return to campaign work as a field and digital organizer for the North Carolina Democratic Party's coordinated campaign. Following the elections, Kadida moved back to Pennsylvania and worked as the director of campaigns for the Pennsylvania Budget and Policy Center (PBPC) – including the We The People – PA and Why Courts Matter – PA nonpartisan campaigns. She is currently the executive director of the New Pennsylvania Project and co-chair of Why Courts Matter – PA.",
+  "layout": "person",
   "keywords": [
     "Advocate",
     "Activist",
@@ -21,19 +13,27 @@
     "independent judiciary",
     "state legislative advocacy campaigns"
   ],
-  "email": "a2VubmVyQHBlbm5icGMub3Jn",
-  "images": [
-    "/img/uploads/KK Pic Bio - Kadida Kenner.jpg"
+  "phone": "7328953475",
+  "first": "Kadida",
+  "expertise": [
+    "Capitol",
+    "Politics"
   ],
-  "website": "https://www.krc-pbpc.org",
-  "facebook": "WhyCourtsMatterPA",
-  "twitter": "",
   "instagram": "",
-  "linkedin": "",
+  "twitter": "",
+  "middle": "Natasha",
+  "pronunciation": "Ka-Dee-Duh",
   "location": [
     "Harrisburg, PA"
   ],
-  "phone": "7328953475",
-  "bio": "A West Chester, PA native and Temple University grad, Kadida Kenner was most recently a writer, producer, and director for college sports television programming in Charlotte, NC. Energized by the 2016 elections, she decided to take a hiatus from TV production, and return to campaign work as a field and digital organizer for the North Carolina Democratic Party's coordinated campaign. Following the elections, Kadida moved back to Pennsylvania and currently lives in Harrisburg while working as the director of campaigns for the Pennsylvania Budget and Policy Center (PBPC) \u2013 including the We The People \u2013 PA and Why Courts Matter \u2013 PA nonpartisan campaigns.",
-  "layout": "person"
+  "role": "Executive director of The New Pennsylvania Project and co-chair of Why Courts Matter - PA",
+  "last": "Kenner",
+  "title": "Kadida Natasha Kenner",
+  "images": [
+    "/img/uploads/KK Pic Bio - Kadida Kenner.jpg"
+  ],
+  "website": "https://www.newpaproject.org/",
+  "email": "a2VubmVyQHBlbm5icGMub3Jn",
+  "linkedin": "",
+  "linktitle": "Kadida Kenner"
 }
