@@ -16,7 +16,8 @@
     "Communications",
     "Diversity & Inclusion",
     "Education",
-    "Media/current events",
+    "Media",
+    "Current Events",
     "Misinformation",
     "Health and Educational Equity",
     "Family & Community engagement"
