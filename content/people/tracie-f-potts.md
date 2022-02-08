@@ -34,7 +34,7 @@
   "images": [
     "/img/uploads/tracie-potts-tracie-potts.jpg"
   ],
-  "website": "traciepotts.com",
+  "website": "http://www.traciepotts.com",
   "email": "dHBvdHRzQGdldHR5c2J1cmcuZWR1",
   "linktitle": "Tracie Potts"
 }
