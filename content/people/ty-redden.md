@@ -1,7 +1,7 @@
 {
   "honorific": "Dr.",
   "pronoun": "she/her/hers",
-  "bio": "Tyeshia Redden is a Derrick K. Gondwe Fellow and Assistant Professor who specializes in housing, social policy, and urban governance failures. Professor Redden holds a B.A. in Political Science and a M.S. in Urban Studies & Planning from Armstrong Atlantic State University and Savannah State University respectively. A University of Florida graduate, she holds a Ph.D. in Design, Construction, and Planning. Her work considers how race, class, gender, and sexuality influence the lived urban experiences of residents. In particular, Professor Redden examines the role of scholar-activists in combating social inequalities and the experiences of marginalized residents in vulnerable or informal communities.",
+  "bio": "Tyeshia Redden is a Derrick K. Gondwe Fellow and Assistant Professor at Gettysburg College who specializes in housing, social policy, and urban governance failures. Professor Redden holds a B.A. in Political Science and a M.S. in Urban Studies & Planning from Armstrong Atlantic State University and Savannah State University respectively. A University of Florida graduate, she holds a Ph.D. in Design, Construction, and Planning. Her work considers how race, class, gender, and sexuality influence the lived urban experiences of residents. In particular, Professor Redden examines the role of scholar-activists in combating social inequalities and the experiences of marginalized residents in vulnerable or informal communities.",
   "layout": "person",
   "keywords": [
     "Race",
