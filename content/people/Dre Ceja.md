@@ -1,23 +1,9 @@
 {
-  "title": "Dre I Ceja",
-  "linktitle": "Dre Ceja",
-  "first": "Dre",
-  "middle": "I",
-  "last": "Ceja",
-  "pronunciation": "D-R-AI      Seh-Ha",
   "honorific": "Mx.",
+  "facebook": "",
   "pronoun": "they/them",
-  "role": "Director of Training & Education, Continuing Education Instructor, Trainer",
-  "expertise": [
-    "Civil Rights",
-    "Diversity & Inclusion",
-    "Education",
-    "Gender & Sexuality",
-    "Health & Medicine",
-    "Politics",
-    "Psychology",
-    "Sociology"
-  ],
+  "bio": "Dre Ceja is a Chicano, queer, and transgender speaker, facilitator, and trainer. They have worked in non-profit and for-profit settings to educate folks on how to create more affirming, welcoming, spaces for transgender and non-binary people. Dre is passionate about using intersectional approaches to creating more inclusive spaces where everyone can thrive and feel belonging. In addition to their training work with Transgender Training Institute, Dre uses their perspective and expertise on several committees and boards. They currently serve on the PA Commission on LGBTQ+ Affairs, the first of its kind in the nation, and are part of the commission’s Legal & Advocacy and Youth & Young Adult committees. As a commissioner, Dre has shared public testimony on the Pennsylvania legal name change filing process and has made policy recommendations for a more accessible and equitable legal name change system for all Pennsylvanians across the Commonwealth. \n\n\nDre also believes that access to affirming and quality healthcare is a human right. Dre serves on Penn State Health LGBTQ+ Taskforce, Penn State Health CHNA Health Equity Task Force, and Wellspan Health Transgender Education Committee. They have worked with these systems to both build and strengthen their transgender and non-binary affirming policies, practices, and culture. \n\nDre is also part of the Pennsylvania Transgender Coalition and their Training & Education Committee. Dre has worked with fellow coalition members and partnering organizations like the ACLU to share accessible educational sessions. Dre worked with the coalition to educate communities on topics such as transgender and non-binary student rights in K-12 schools and sports. You can learn more about Dre by visiting their website here or by following them on Instagram where they share their personal story and educational infographic posts.",
+  "layout": "person",
   "keywords": [
     "LGBTQ+",
     "LGBTQIA",
@@ -37,21 +23,38 @@
     "intersectional justice",
     "intersectionality",
     "community building",
-    "HR"
+    "HR",
+    "gender equity"
   ],
-  "email": "ZGNlamFAY2VudHJhbHBhbGdidGNlbnRlci5vcmc=",
-  "images": [
-    "/img/uploads/0 - ARTS of PA.jpg"
+  "phone": "",
+  "first": "Dre",
+  "expertise": [
+    "Civil Rights",
+    "Diversity & Inclusion",
+    "Education",
+    "Gender & Sexuality",
+    "Health & Medicine",
+    "Politics",
+    "Psychology",
+    "Sociology",
+    "Transgender & Non-binary",
+    "Gender Equity"
   ],
-  "website": "",
-  "facebook": "",
-  "twitter": "dreconchile",
   "instagram": "",
-  "linkedin": "dreiceja",
+  "twitter": "dreconchile",
+  "middle": "I",
+  "pronunciation": "D-R-AI      Seh-Ha",
   "location": [
     "Harrisburg, PA"
   ],
-  "phone": "7179209534",
-  "bio": "Dre Ceja is a Chicano, queer, transgender, and non-binary speaker, facilitator, consultant, and trainer. They currently work as the Director of Training & Education at the LGBT Center of Central PA, Continuing Education Instructor at Temple University Harrisburg Campus, and Trainer at Transgender Training Institute. They are also a member of the Pennsylvania Transgender Coalition's Training & Education committee.  \n\nDre is passionate about helping others create more inclusive spaces where everyone can thrive and feel belonging. Dre studied Sociology and Women and Gender Studies at California University of Pennsylvania, and they graduated with a bachelor and associates degree from the university. In 2018 Dre also had the privilege of attending the Training of Trainers program through Transgender Training Institute, where they were introduced to best practice inclusion training and facilitation strategies. Their background in Sociology allows them to identify structural barriers to inclusion, and their research-based training approaches help participants identify tangible steps toward breaking down these barriers. They are also passionate about intersectional social justice and they approach their training work from an intersectional lens.",
-  "layout": "person"
+  "role": "Director of Training & Education, Continuing Education Instructor, Trainer",
+  "last": "Ceja",
+  "title": "Dre I Ceja",
+  "images": [
+    "/img/uploads/0 - ARTS of PA.jpg"
+  ],
+  "website": "https://dreceja.simvoly.com",
+  "email": "RHJlQFRyYW5zZ2VuZGVyVHJhaW5pbmdJbnN0aXR1dGUuY29t",
+  "linkedin": "dreiceja",
+  "linktitle": "Dre Ceja"
 }
