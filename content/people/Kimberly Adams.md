@@ -1,12 +1,16 @@
 {
-  "title": "Kimberly S Adams",
-  "linktitle": "Kimberly Adams",
-  "first": "Kimberly",
-  "middle": "S",
-  "last": "Adams",
   "honorific": "Dr.",
+  "facebook": "",
   "pronoun": "she/her",
-  "role": "Professor of Political Science",
+  "bio": "Dr. Kimberly S. Adams is a Professor of Political Science at East Stroudsburg University of Pennsylvania. She is an accomplished political scientist and activist with more than 17 years of experience in academia and the private sector. She is a highly skilled campaigner with demonstrated expertise in helping candidates assess and respond to political climates. She is a creative problem solver who works across party labels, functions, and industries to bring about political change. Dr. Adams is a team leader with a proven devotion to leadership development. She has a track record of success in publication and public speaking and served as a political analyst on national and local news programs. She has presented research and given over 95 talks across the world on women, race, and politics.\n\nDr. Adams is a member of numerous organizations including the National Conference of Black Political Scientists, the National Congress of Black Women, American News Women’s Club, the NAACP, and Alpha Kappa Alpha Sorority, Inc.\n\nDr. Adams serves on national boards of the National Organization for Women (NOW), the American Association for University Women (AAUW), and the Feminist Majority Foundation. Additionally, she serves on NOW’s political action committee (NOWPAC) and the political action committee for Feminist Majority. Dr. Adams is a charter member of the National Museum of African American History and Culture.",
+  "layout": "person",
+  "keywords": [
+    "women and politics",
+    "racial politics",
+    "campaigns and elections"
+  ],
+  "phone": "15704223924",
+  "first": "Kimberly",
   "expertise": [
     "Civil Rights",
     "Diversity & Inclusion",
@@ -14,24 +18,20 @@
     "Gender & Sexuality",
     "Politics"
   ],
-  "keywords": [
-    "women and politics",
-    "racial politics",
-    "campaigns and elections"
+  "instagram": "",
+  "twitter": "",
+  "middle": "S",
+  "location": [
+    "East Stroudsburg, PA"
   ],
-  "email": "a3NhZGFtc0Blc3UuZWR1",
+  "role": "Professor of Political Science",
+  "last": "Adams",
+  "title": "Kimberly S Adams",
   "images": [
     "/img/uploads/KSAheadshot - Kimberly S. Adams.jpg"
   ],
   "website": "",
-  "facebook": "",
-  "twitter": "",
-  "instagram": "",
+  "email": "a3NhZGFtc0Blc3UuZWR1",
   "linkedin": "",
-  "location": [
-    "East Stroudsburg, PA"
-  ],
-  "phone": "15704223924",
-  "bio": "Dr. Kimberly S. Adams is a Professor of Political Science at East Stroudsburg University of Pennsylvania. She is an accomplished political scientist and activist with more than 15 years of experience in academia and the private sector. She is a highly skilled campaigner with demonstrated expertise in helping candidates assess and respond to political climates. She is a creative problem solver who works across party labels, functions and industries to bring about political change. Dr. Adams is a team leader with a proven devotion to leadership development. She has a track record of success in publication and public speaking and served as a political analyst on national and local news programs. She has presented research and given over 90 talks across the world on women, race, and politics.\n\n Dr. Adams is a member of numerous organizations including the National Conference of Black Political Scientists, the American News Women\u2019s Club, AAUW, the American Association of Blacks in Higher Education, and Alpha Kappa Alpha Sorority, Inc. Dr. Adams is a charter member of the National Museum of African American History and Culture and serves on the national political action committee for the National Organization for Women (NOW PAC) and is a board member for the Vote for Equality SuperPAC.",
-  "layout": "person"
+  "linktitle": "Kimberly Adams"
 }
