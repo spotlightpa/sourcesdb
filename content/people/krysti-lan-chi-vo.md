@@ -26,7 +26,7 @@
   "location": [
     "Philadelphia, PA"
   ],
-  "role": "Psychiatrist",
+  "role": "Head of Psychiatry at Vida Health",
   "last": "Vo",
   "title": "Krysti (Lan Chi) Vo",
   "images": [
