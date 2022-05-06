@@ -17,7 +17,7 @@
     "Criminal Justice"
   ],
   "instagram": "",
-  "twitter": "thejuryroomblog",
+  "twitter": "celeste_trusty",
   "middle": "",
   "location": [
     "West Chester, PA"
@@ -29,7 +29,7 @@
     "/img/uploads/Celeste Trusty headshot - k. celeste trusty.jpg"
   ],
   "website": "",
-  "email": "",
+  "email": "Y3RydXN0eUBwYS5nb3Y=",
   "linkedin": "",
   "linktitle": "Celeste Trusty"
 }
