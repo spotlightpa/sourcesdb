@@ -29,6 +29,6 @@
   "last": "Maxwell",
   "title": "LaDeshia C. Maxwell",
   "email": "bGFkZXNoaWEubWF4d2VsbEBnbWFpbC5jb20=",
-  "linkedin": "ladeshiamaxwell/",
+  "linkedin": "ladeshiamaxwell",
   "linktitle": "LaDeshia Maxwell"
 }
