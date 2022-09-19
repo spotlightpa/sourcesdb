@@ -26,5 +26,6 @@
     "/img/uploads/marni-marni-jo-snyder.png"
   ],
   "website": "https://www.snyderlawyer.com/",
+  "email": "TWFybmlAc255ZGVybGF3eWVyLmNvbQ==",
   "linktitle": "Marni Snyder"
 }
