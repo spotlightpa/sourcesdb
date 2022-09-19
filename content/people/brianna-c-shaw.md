@@ -22,6 +22,9 @@
   "role": "Attorney",
   "last": "Shaw",
   "title": "Brianna C. Shaw",
+  "images": [
+    "/img/uploads/headshot-brianna-shaw.jpg"
+  ],
   "website": "https://www.snyderlawyer.com/",
   "email": "YnJpYW5uYUBzbnlkZXJsYXd5ZXIuY29t",
   "linktitle": "Brianna Shaw"
