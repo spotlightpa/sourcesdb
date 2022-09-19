@@ -1,5 +1,5 @@
 {
-  "honorific": "MR.",
+  "honorific": "Mr.",
   "facebook": "AntonAndrewForPA",
   "pronoun": "he/him/his",
   "bio": "Anton Andrew is the Public Affairs Fellow for the Pennsylvania Prison Society. Anton works to increase the Society’s visibility in legislative offices, support education efforts and explore ways to sustain strategic advocacy campaigns. He has spent the past 25 years as a public defender, educator, and local activist fighting to protect people and communities whose voices have been historically ignored.",
