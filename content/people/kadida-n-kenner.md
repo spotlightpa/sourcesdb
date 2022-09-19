@@ -22,6 +22,9 @@
   "role": "CEO",
   "last": "Kenner",
   "title": "Kadida N. Kenner",
+  "images": [
+    "/img/uploads/kk-pic-bio-kadida-kenner.jpg"
+  ],
   "website": "https://www.newpaproject.org/",
   "email": "a2FkaWRhQG5ld3BhcHJvamVjdC5vcmc=",
   "linktitle": "Kadida Kenner"
