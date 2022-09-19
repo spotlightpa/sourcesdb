@@ -14,7 +14,7 @@
     "Politics",
     "Voting Rights and Constitutional Amendments"
   ],
-  "twitter": "kadidakenner, newpennsylvania ",
+  "twitter": "kadidakenner ",
   "pronunciation": "Ka-dee-duh Ken-er",
   "location": [
     "Chesterbrook, Chester County, Pa"
