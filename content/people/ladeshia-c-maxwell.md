@@ -29,7 +29,7 @@
   "last": "Maxwell",
   "title": "LaDeshia C. Maxwell",
   "images": [
-    "/img/uploads/rjm80196-1-1-anton-andrew.jpg"
+    "/img/uploads/img_0017-ladeshia-maxwell.jpg"
   ],
   "email": "bGFkZXNoaWEubWF4d2VsbEBnbWFpbC5jb20=",
   "linkedin": "ladeshiamaxwell",
