@@ -20,6 +20,9 @@
   "role": "Attorney",
   "last": "Tran",
   "title": "Chi-Ser Tran",
+  "images": [
+    "/img/uploads/tran-headshot-chi-ser-tran.jpg"
+  ],
   "email": "Y3RyYW5AY2xzcGhpbGEub3Jn",
   "linktitle": "Chi-Ser Tran"
 }
