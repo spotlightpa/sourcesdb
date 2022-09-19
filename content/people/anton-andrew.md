@@ -22,8 +22,8 @@
   ],
   "role": "Education and Advocacy Fellow",
   "last": "Andrew",
-  "title": "ANTON ANDREW",
+  "title": "Anton Andrew",
   "website": "https://www.prisonsociety.org/",
   "email": "YWFuZHJld0Bwcmlzb25zb2NpZXR5Lm9yZw==",
-  "linktitle": "ANTON ANDREW"
+  "linktitle": "Anton Andrew"
 }
