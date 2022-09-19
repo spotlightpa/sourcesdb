@@ -28,6 +28,9 @@
   "role": "Executive Director ",
   "last": "Maxwell",
   "title": "LaDeshia C. Maxwell",
+  "images": [
+    "/img/uploads/rjm80196-1-1-anton-andrew.jpg"
+  ],
   "email": "bGFkZXNoaWEubWF4d2VsbEBnbWFpbC5jb20=",
   "linkedin": "ladeshiamaxwell",
   "linktitle": "LaDeshia Maxwell"
