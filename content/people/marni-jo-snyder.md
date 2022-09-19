@@ -22,6 +22,9 @@
   "role": "Attorney",
   "last": "Snyder",
   "title": "Marni Jo Snyder",
+  "images": [
+    "/img/uploads/marni-marni-jo-snyder.png"
+  ],
   "website": "https://www.snyderlawyer.com/",
   "linktitle": "Marni Snyder"
 }
