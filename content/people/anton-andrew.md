@@ -12,9 +12,9 @@
   "phone": "2159104576",
   "first": "Anton",
   "expertise": [
-    "ENVIRONMENT",
-    "LAW",
-    "CRIMINAL JUSTICE"
+    "Criminal Justice",
+    "Environment",
+    "Law"
   ],
   "pronunciation": "",
   "location": [
