@@ -17,6 +17,9 @@
   "role": "Legislative Assistant",
   "last": "Hill",
   "title": "Thaddeus Hill",
+  "images": [
+    "/img/uploads/img-2704-thaddeus-hill.jpg"
+  ],
   "email": "emhhbmVoaWxsLnRoQGdtYWlsLmNvbQ==",
   "linkedin": "thaddeus-hill",
   "linktitle": "Thaddeus Hill"
