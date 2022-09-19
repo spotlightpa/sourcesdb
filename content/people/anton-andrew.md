@@ -23,6 +23,9 @@
   "role": "Education and Advocacy Fellow",
   "last": "Andrew",
   "title": "Anton Andrew",
+  "images": [
+    "/img/uploads/rjm80196-1-1-anton-andrew.jpg"
+  ],
   "website": "https://www.prisonsociety.org/",
   "email": "YWFuZHJld0Bwcmlzb25zb2NpZXR5Lm9yZw==",
   "linktitle": "Anton Andrew"
