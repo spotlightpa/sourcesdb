@@ -1,42 +1,38 @@
 {
-  "title": "David Gonzalez Jr.",
-  "linktitle": "David Gonzalez Jr.",
-  "first": "David",
-  "middle": "",
-  "last": "Gonzalez Jr.",
-  "pronunciation": "DAY-vid gon-SAH-lez",
   "honorific": "Mr.",
+  "facebook": "",
   "pronoun": "he/him",
-  "role": "Advocacy Manager",
+  "bio": "David is the Director of Economic initiatives for the York County Economic Alliance (YCEA). He’s been with the YCEA since 2016 and works to advocate for the local economy and connect businesses with resources. His role includes ensuring the progress of the county’s 10-year Economic Action Plan, a comprehensive plan focused on strengthening the quality of life and economic opportunities of the community. David’s portfolio of work includes expanding broadband access, improving the Codorus Creek in the City of York, leading a plan to increase access and affordability of housing, and supporting communities and businesses in leveraging outdoor recreation for economic opportunity.",
+  "layout": "person",
+  "keywords": [
+    "economy",
+    "community engagement",
+    "Latinx issues",
+    "urban planning",
+    "public policy"
+  ],
+  "phone": "7177187847",
+  "first": "David",
   "expertise": [
     "Business & Finance",
     "Diversity & Inclusion",
     "Education"
   ],
-  "keywords": [
-    "Civil Rights",
-    "Criminal Justice",
-    "Diversity & Inclusion",
-    "Economy",
-    "Education",
-    "Entrepreneurship",
-    "Politics",
-    "Small Business",
-    "Technology"
+  "instagram": "",
+  "twitter": "GonzalezJ_David",
+  "middle": "",
+  "pronunciation": "DAY-vid gon-SAH-lez",
+  "location": [
+    "York, PA"
   ],
-  "email": "ZGdvbnphbGV6QHljZWFwYS5vcmc=",
+  "role": "Director, Economic Initiatives",
+  "last": "Gonzalez Jr.",
+  "title": "David Gonzalez Jr.",
   "images": [
     "/img/uploads/Gonzalez, David - Tamara Dunn.jpg"
   ],
   "website": "http://yceapa.org",
-  "facebook": "",
-  "twitter": "GonzalezJ_David",
-  "instagram": "",
+  "email": "ZGdvbnphbGV6QHljZWFwYS5vcmc=",
   "linkedin": "",
-  "location": [
-    "York, PA"
-  ],
-  "phone": "7177187847",
-  "bio": "David is the Advocacy Manager for the York County Economic Alliance (YCEA). He's been with the YCEA for four years and works to advocate for the local economy and connect businesses with resources. His line of work ensures no two days are the same, but it often revolves around sharing issues with elected officials, helping communicating details on policies, or connecting opportunities to the local community.",
-  "layout": "person"
+  "linktitle": "David Gonzalez Jr."
 }
