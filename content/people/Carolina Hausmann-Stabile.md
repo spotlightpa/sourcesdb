@@ -17,9 +17,10 @@
     "Health & Medicine",
     "Immigration",
     "Latinx Issues",
-    "mental health (epidemiology",
-    "innovation",
-    "services) in Latin America"
+    "Mental Health",
+    "Epidemiology",
+    "Innovation",
+    "Latin America"
   ],
   "instagram": "",
   "twitter": "HausmannStabile",
