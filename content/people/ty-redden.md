@@ -14,7 +14,7 @@
   "expertise": [
     "Civil Rights",
     "Diversity & Inclusion",
-    "Urban studies/Planning",
+    "Urban Planning",
     "Housing",
     "Public Policy"
   ],
