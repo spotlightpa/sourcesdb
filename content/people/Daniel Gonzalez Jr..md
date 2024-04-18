@@ -14,9 +14,13 @@
   "phone": "7177187847",
   "first": "David",
   "expertise": [
-    "Business & Finance",
-    "Diversity & Inclusion",
-    "Education"
+    "Housing",
+    "Transportation",
+    "Entrepreneurship",
+    "Childcare",
+    "Agriculture",
+    "Small Business",
+    "Politics"
   ],
   "instagram": "",
   "twitter": "GonzalezJ_David",
