@@ -85,8 +85,10 @@
   class="bg-beige text-g-9 font-serif leading-normal"
 >
   <div class="flex flex-col max-w-screen  min-h-screen bg-white overflow-x-hidden">
-    {{ partialCached "nav.html" . }}
-    <div class="px-2 py-2 font-sans font-medium leading-tight md:leading-none bg-yellow"><span class="text-center text-lg italic">Attention: This site is no longer maintained</span></div>
+    {{ partialCached "nav.html" . -}}
+    <div class="px-2 py-2 font-sans font-medium leading-tight md:leading-none bg-yellow text-center text-lg italic">
+      Attention: This site is no longer maintained
+    </div>
     {{ block "main" . }}
     {{ end }}
     {{ partialCached "footer.html" . }}
